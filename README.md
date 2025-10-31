@@ -3,7 +3,7 @@
 A modern, full-stack web application that allows users to swap time slots with each other. Users can mark their busy calendar slots as "swappable" and request to exchange them with other users' available slots.
 
 ## 🚀 Live Demo
-- **Frontend**: [Deploy to Vercel/Netlify - Add your deployed URL here]
+- **Frontend**: https://slotswapper-1-v9wo.onrender.com
 - **Backend**: https://slotswapper-ew13.onrender.com
 
 ## 📋 Project Overview
@@ -71,9 +71,9 @@ npm run dev
 ```
 
 ### Step 5: Access Application
-- **Frontend**: http://localhost:5173
-- **Backend API**: http://localhost:3001
-- **Health Check**: http://localhost:3001/health
+- **Frontend**: https://slotswapper-1-v9wo.onrender.com
+- **Backend API**: https://slotswapper-ew13.onrender.com
+- **Health Check**: https://slotswapper-ew13.onrender.com/health
 
 ## 🔌 API Endpoints
 
